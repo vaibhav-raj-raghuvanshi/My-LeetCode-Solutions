@@ -14,7 +14,7 @@ private:
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int dt) {
         dist = vector<vector<ll>>(n,vector<ll>(n,INT_MAX));
-        for(auto it : edges){
+        for(auto &it : edges){
             dist[it[0]][it[1]] = min((ll)it[2], dist[it[0]][it[1]]);
             dist[it[1]][it[0]] = min((ll)it[2], dist[it[1]][it[0]]);
         }
