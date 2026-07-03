@@ -13,12 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2258-escape-the-spreading-fire](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,10 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2608-shortest-cycle-in-a-graph](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -101,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2977-minimum-cost-to-convert-string-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -112,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
