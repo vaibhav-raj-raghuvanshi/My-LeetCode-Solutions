@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
