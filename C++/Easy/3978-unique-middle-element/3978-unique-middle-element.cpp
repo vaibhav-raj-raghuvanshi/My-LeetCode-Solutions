@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isMiddleElementUnique(vector<int>& nums) {
-        map<int, int> mp;
+        unordered_map<int, int> mp;
         for(auto it : nums){
             mp[it]++;
         }
