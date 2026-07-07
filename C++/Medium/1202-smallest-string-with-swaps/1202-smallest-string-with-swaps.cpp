@@ -44,10 +44,7 @@ public:
         string sol = "";
         for(int i = 0;i<n;i++){
             sol.push_back(mp[dsu.find(i)].top());
-            mp[dsu.find(i)].pop(
-
-            );
-
+            mp[dsu.find(i)].pop();
         }
         return sol;
     }
