@@ -38,10 +38,10 @@ public:
             dsu.merge(it[0], it[1]);
         }
         for(int i = 0;i<n;i++){
-            // cout << dsu.find(i) << " ";
+            dsu.find(i);
         }
         for(int i = 0;i<n;i++){
-            dsu.find(n - i - 1);
+            // dsu.find(n - i - 1);
         }
         unordered_map<int,priority_queue<char, vector<char>, greater<>>> mp;
         for(int i = 0;i<n;i++){
@@ -49,7 +49,6 @@ public:
         }
         string sol = "";
         for(int i = 0;i<n;i++){
-            // cout << mp[dsu.find(i)].top() << " ";
             sol.push_back(mp[dsu.find(i)].top());
             mp[dsu.find(i)].pop();
 
