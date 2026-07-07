@@ -37,12 +37,6 @@ public:
         for(auto it : pairs){
             dsu.merge(it[0], it[1]);
         }
-        for(int i = 0;i<n;i++){
-            // dsu.find(i);
-        }
-        for(int i = 0;i<n;i++){
-            // dsu.find(n - i - 1);
-        }
         unordered_map<int,priority_queue<char, vector<char>, greater<>>> mp;
         for(int i = 0;i<n;i++){
             mp[dsu.find(i)].push(s[i]);
@@ -51,7 +45,7 @@ public:
         for(int i = 0;i<n;i++){
             sol.push_back(mp[dsu.find(i)].top());
             mp[dsu.find(i)].pop(
-                
+
             );
 
         }
