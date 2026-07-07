@@ -38,7 +38,7 @@ public:
             dsu.merge(it[0], it[1]);
         }
         for(int i = 0;i<n;i++){
-            dsu.find(i);
+            // dsu.find(i);
         }
         for(int i = 0;i<n;i++){
             // dsu.find(n - i - 1);
@@ -50,7 +50,9 @@ public:
         string sol = "";
         for(int i = 0;i<n;i++){
             sol.push_back(mp[dsu.find(i)].top());
-            mp[dsu.find(i)].pop();
+            mp[dsu.find(i)].pop(
+                
+            );
 
         }
         return sol;
