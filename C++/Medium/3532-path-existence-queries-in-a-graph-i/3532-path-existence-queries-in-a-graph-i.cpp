@@ -10,11 +10,9 @@ public:
             component[i] = compNo;
         }
         vector<bool> sol;
-
         for(auto &it : queries){
             sol.push_back(component[it[0]] == component[it[1]]);
         }
-
         return sol;
     }
 };
