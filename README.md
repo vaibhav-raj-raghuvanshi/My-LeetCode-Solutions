@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2258-escape-the-spreading-fire](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2509-cycle-length-queries-in-a-tree/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
@@ -125,11 +127,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -199,4 +203,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 <!---LeetCode Topics End-->
