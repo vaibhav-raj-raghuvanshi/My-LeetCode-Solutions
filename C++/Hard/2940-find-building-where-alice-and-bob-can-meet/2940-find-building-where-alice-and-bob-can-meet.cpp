@@ -1,6 +1,4 @@
 class Solution {
-private:
-
 public:
     vector<int> leftmostBuildingQueries(vector<int>& nums, vector<vector<int>>& queries) {
         vector<int> sol(queries.size(), -1);
@@ -31,3 +29,5 @@ public:
         return sol;
     }
 };
+// entire solution by me <3
+// yt pe sab segment tree ya BS use kar rahe
