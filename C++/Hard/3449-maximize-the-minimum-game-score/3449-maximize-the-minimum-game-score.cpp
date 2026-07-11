@@ -25,7 +25,7 @@ private:
         arr[n-1] += nums[n-1];
         m--;
         if(arr[n-1] < mid){
-            int k = (mid - arr[n - 1] + nums[n - 1] - 1) / nums[n - 1];
+            long long int k = (mid - arr[n - 1] + nums[n - 1] - 1) / nums[n - 1];
             return (m >= 2*k);
         }
         return true;
