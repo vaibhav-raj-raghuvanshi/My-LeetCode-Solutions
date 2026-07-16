@@ -7,7 +7,7 @@ private:
 public:
     bool judgeSquareSum(int c) {
         long long int x = 0, y = c;
-        while(x <= y){
+        while(x*x <= y){
             if(isPerf(y)){
                 return true;
             }
