@@ -2,31 +2,24 @@ class Solution {
 public:
     string removeDuplicateLetters(string s) {
         unordered_map<char, int> mp;
-        vector<bool> inAns(26, false);
-
-        for (char c : s) {
-            mp[c]++;
+        vector<bool> inAns(26,false);
+        for(auto &it : s){
+            mp[it]++;
         }
 
-        string sol;
-
-        for (char c : s) {
-            while (!inAns[c - 'a'] &&
-                   !sol.empty() &&
-                   sol.back() > c &&
-                   mp[sol.back()] > 0) {
+        string sol = "";
+        for(auto &it : s){
+            while(!inAns[it - 'a'] && sol.size() > 0 && sol.back() > it && mp[sol.back()] > 0){
                 inAns[sol.back() - 'a'] = false;
                 sol.pop_back();
             }
-
-            mp[c]--;
-
-            if (!inAns[c - 'a']) {
-                inAns[c - 'a'] = true;
-                sol.push_back(c);
+            mp[it]--;
+            if(!inAns[it - 'a']){
+                inAns[it - 'a'] = true;
+                sol.push_back(it);
             }
         }
 
-        return sol;        
+        return sol;
     }
 };
