@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0233-number-of-digit-one/) | Hard |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0089-gray-code/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 ## Game Theory
