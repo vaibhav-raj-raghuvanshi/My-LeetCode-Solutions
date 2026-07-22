@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-minimize-malware-spread](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0924-minimize-malware-spread/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [0994-rotting-oranges](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1202-smallest-string-with-swaps/) | Medium |
 | [1260-shift-2d-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
