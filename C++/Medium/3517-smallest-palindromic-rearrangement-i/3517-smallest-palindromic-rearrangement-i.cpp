@@ -10,10 +10,6 @@ public:
         int low = 0,high = n-1;
         int i = 0;
         while(i < 26 && high > low){
-            if(mp[i] == 1){
-                s[n/2] = i + 'a';
-                mp[i]--;
-            }
             while(mp[i] >= 2){
                 s[low++] = i + 'a';
                 s[high--] = i + 'a';
