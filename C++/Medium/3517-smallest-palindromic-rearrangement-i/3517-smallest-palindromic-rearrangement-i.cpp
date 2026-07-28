@@ -2,7 +2,6 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         int n = s.size();
-        // string str(n, -1);
         vector<int> mp(26, 0);
         for(auto it : s){
             mp[it - 'a']++;
