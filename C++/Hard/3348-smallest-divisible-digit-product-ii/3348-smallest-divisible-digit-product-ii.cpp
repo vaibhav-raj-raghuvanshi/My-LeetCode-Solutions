@@ -1,3 +1,4 @@
+
 class Solution {
 private:
     vector<vector<int>> minCount2D;
@@ -52,19 +53,19 @@ private:
         return minCount(Need) <= Length;
     }
     string buildSuffix(array<int,4> Need, int Length) {
-        string Ans = "";
+        string sol = "";
         for(int i = 0; i < Length; i++) {
             int Remaining = Length - i - 1;
             for(int Digit = 1; Digit <= 9; Digit++) {
                 auto NewNeed = reduce(Need, Digit);
                 if(canFill(NewNeed, Remaining)) {
-                    Ans.push_back(Digit + '0');
+                    sol.push_back(Digit + '0');
                     Need = NewNeed;
                     break;
                 }
             }
         }
-        return Ans;
+        return sol;
     }
 public:
     string smallestNumber(string num, long long t) {
@@ -145,10 +146,10 @@ public:
                 auto NewNeed = reduce(Need, Digit);
                 int Remaining = n - i - 1;
                 if(canFill(NewNeed, Remaining)) {
-                    string Ans = num.substr(0, i);
-                    Ans.push_back(Digit + '0');
-                    Ans += buildSuffix(NewNeed, Remaining);
-                    return Ans;
+                    string sol = num.substr(0, i);
+                    sol.push_back(Digit + '0');
+                    sol.append(buildSuffix(NewNeed, Remaining));
+                    return sol;
                 }
             }
         }
