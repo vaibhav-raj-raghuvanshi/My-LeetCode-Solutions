@@ -11,11 +11,8 @@ public:
             pq.pop();
             pq.push(-temp);
             sol -=(2 * (temp));
-            k--; 
+            k--;
         }
-        if(k % 2 == 0){
-            return sol;
-        }
-        return sol - 2 * pq.top();
+        return sol - 2 * (k % 2) * pq.top();
     }
 };
