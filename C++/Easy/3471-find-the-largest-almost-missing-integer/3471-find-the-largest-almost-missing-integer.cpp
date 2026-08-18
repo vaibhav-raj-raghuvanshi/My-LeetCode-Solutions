@@ -19,9 +19,6 @@ public:
             return max;
         }
         n = n-1;
-        if(nums[0]==nums[n]){
-            return -1;
-        }
         if(mp[nums[0]] == 1 && mp[nums[n]] == 1){
             return max(nums[0],nums[n]);
         }
