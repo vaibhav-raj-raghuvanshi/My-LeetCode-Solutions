@@ -19,8 +19,12 @@ public:
         build(mid + 1, high, node*2 + 2, nums);
         tree[node] = tree[node*2 + 1] + tree[node*2 + 2];
     }
+    
+    void update(int idx, int val){
+        updateUtil(0, n-1, idx, val, 0);
+    }
 
-    void update(int low, int high, int idx, int val, int node){
+    void updateUtil(int low, int high, int idx, int val, int node){
         if(idx < low || idx > high){
             return;
         }
@@ -30,9 +34,9 @@ public:
         }
         int mid = low + (high - low)/ 2;
         if(idx <= mid){
-            update(low, mid, idx, val, node * 2 + 1);
+            updateUtil(low, mid, idx, val, node * 2 + 1);
         }else{
-            update(mid + 1, high, idx, val, node * 2 + 2);
+            updateUtil(mid + 1, high, idx, val, node * 2 + 2);
         }
         tree[node] = tree[node * 2 + 1] + tree[node * 2 + 2];
     }
@@ -59,15 +63,13 @@ public:
 class NumArray {
 private:
     segmentTree* node;
-    int n;
 public:
     NumArray(vector<int>& nums) {
         node = new segmentTree(nums);
-        n = nums.size();
     }
     
     void update(int index, int val) {
-        node -> update(0, n-1, index, val, 0);
+        node -> update(index, val);
     }
     
     int sumRange(int left, int right) {
