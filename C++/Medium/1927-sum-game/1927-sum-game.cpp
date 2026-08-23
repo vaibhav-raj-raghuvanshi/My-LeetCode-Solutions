@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool sumGame(string s) {
-        double res = 0;
-        double n = s.length();
+        int res = 0;
+        int n = s.length();
         for (int i = 0; i < n; i++) {
-            double sign;
+            int sign;
             if (i < n / 2) {
                 sign = 2;
             } else {
                 sign = -2;
             }
-            double value;
+            int value;
             if (s[i] == '?') {
                 value = 9;
                 res -= 9 * sign/2;
