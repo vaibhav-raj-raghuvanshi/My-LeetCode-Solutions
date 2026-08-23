@@ -6,13 +6,14 @@ public:
         for (int i = 0; i < n; i++) {
             double sign;
             if (i < n / 2) {
-                sign = 1;
+                sign = 2;
             } else {
-                sign = -1;
+                sign = -2;
             }
             double value;
             if (s[i] == '?') {
-                value = 4.5;
+                value = 9;
+                res -= 9 * sign/2;
             } else {
                 value = s[i] - '0';
             }
