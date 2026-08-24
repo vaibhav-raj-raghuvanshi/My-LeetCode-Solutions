@@ -1,7 +1,6 @@
 class Solution {
 private:
     vector<int> spd;
-    map<int, int> lastIndexOf;
     void init(){
         for(int i = 0;i <= 1000000; i++){
             spd.push_back(i);
