@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2145-count-the-hidden-sequences](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2145-count-the-hidden-sequences/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/2258-escape-the-spreading-fire/) | Hard |
+| [2462-total-cost-to-hire-k-workers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2509-cycle-length-queries-in-a-tree/) | Hard |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 | [0502-ipo](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0502-ipo/) | Hard |
+| [2462-total-cost-to-hire-k-workers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3842-toggle-light-bulbs](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3842-toggle-light-bulbs/) | Easy |
