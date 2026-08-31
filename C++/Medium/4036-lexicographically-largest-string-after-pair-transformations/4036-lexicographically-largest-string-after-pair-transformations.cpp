@@ -3,10 +3,8 @@ private:
     int mx;
     string render(int num){
         int ctrZ = 0;
-        while(num >= mx){
-            num -= mx;
-            ctrZ++;
-        }
+        ctrZ = num / mx;
+        num %= mx;
         int i = 0;
         string sol = "";
         while(num > 0){
