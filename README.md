@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0146-lru-cache/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
