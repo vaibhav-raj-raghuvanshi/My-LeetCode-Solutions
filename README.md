@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0502-ipo](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0502-ipo/) | Hard |
 | [0853-car-fleet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0853-car-fleet/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 | [0502-ipo](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0502-ipo/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0191-number-of-1-bits](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -634,4 +638,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2584-split-the-array-to-make-coprime-products/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
