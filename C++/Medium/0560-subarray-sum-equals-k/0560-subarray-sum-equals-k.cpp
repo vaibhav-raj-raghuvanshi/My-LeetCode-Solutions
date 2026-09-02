@@ -7,11 +7,11 @@ public:
         if(nums[0] == k){
             sol++;
         }
-        // mp[0]++;
+        mp[0]++;
         mp[nums[0]]++;
         for(int i = 1; i < n;i++){
             nums[i] += nums[i-1];
-            sol += mp[nums[i] - k] + (nums[i] == k);
+            sol += mp[nums[i] - k];
             mp[nums[i]]++;
         }
         return sol;
