@@ -8,6 +8,6 @@ public:
         for(int i = 3;i<20001;i++){
             sol[i] += max(sol[i-2], sol[i-3]);
         }
-        return *max_element(sol.begin(), sol.end());
+        return max(sol[20000], sol[19999]);
     }
 };
