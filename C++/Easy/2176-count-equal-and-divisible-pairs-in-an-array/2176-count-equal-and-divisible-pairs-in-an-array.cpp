@@ -10,12 +10,12 @@ public:
         for(int i = 1; i < n;i++){
             int contri = gcd(k, i);
             int req = k / contri;
-            for(int j = 0;j < n;j+=req){
+            for(int j = i/req * req + req;j < n;j+=req){
                 if(j != i && nums[j] == nums[i]){
                     sol++;
                 }
             }
         }
-        return sol/2;
+        return sol;
     }
 };
