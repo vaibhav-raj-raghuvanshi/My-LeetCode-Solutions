@@ -10,7 +10,7 @@ public:
             sol++;
         }
         int n = nums.size();
-        for(int i = 1;i<n;i++){
+        for(int i = 1; i < n; i++){
             nums[i] = (((nums[i] + nums[i-1]) % k) + k) % k;
             sol += mp[nums[i]];
             mp[nums[i]]++;
