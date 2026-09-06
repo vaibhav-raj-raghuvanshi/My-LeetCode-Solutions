@@ -25,10 +25,10 @@ public:
             }
         }
         // n = n-1
-        while(low < s.size() && x > n){
-            low++;
-            convert(x, low, s.size()-1);
-        }
+        // while(low < s.size() && x > n){
+        //     low++;
+        //     convert(x, low, s.size()-1);
+        // }
         while(low < s.size()){
             convert(x, low, s.size()-1);
             if(x!=0 && ++mp[x] == 1){
