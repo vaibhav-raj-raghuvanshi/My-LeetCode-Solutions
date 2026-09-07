@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0890-find-and-replace-pattern/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1138-alphabet-board-path](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1138-alphabet-board-path/) | Medium |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0740-delete-and-earn](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
