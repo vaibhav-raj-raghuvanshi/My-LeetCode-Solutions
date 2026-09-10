@@ -23,7 +23,6 @@ private:
         }
         return {p1.first+p2.first+root->val, p1.second + p2.second + 1};
     }
-
 public:
     int averageOfSubtree(TreeNode* root) {
         backtrack(root);
