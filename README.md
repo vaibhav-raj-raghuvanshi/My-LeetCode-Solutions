@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3454-separate-squares-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3454-separate-squares-ii/) | Hard |
 | [3457-eat-pizzas](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3457-eat-pizzas/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -620,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
