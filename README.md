@@ -733,5 +733,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [1280-students-and-examinations](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
