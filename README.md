@@ -734,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0620-not-boring-movies](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [1280-students-and-examinations](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 | [1934-confirmation-rate](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Medium/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
