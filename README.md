@@ -730,4 +730,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1280-students-and-examinations](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
