@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0400-nth-digit/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2584-split-the-array-to-make-coprime-products/) | Hard |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Segment Tree
@@ -439,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
