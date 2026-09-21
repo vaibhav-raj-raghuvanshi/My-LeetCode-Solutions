@@ -1,9 +1,9 @@
 class Solution {
 private:
-    vector<long long int> nums;
+    vector<int> nums;
 public:
     Solution(vector<int>& w) {
-        long long int prev = 0;
+        int prev = 0;
         for(auto it : w){
             prev += it;
             nums.push_back(prev);
