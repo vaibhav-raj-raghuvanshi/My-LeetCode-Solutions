@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0740-delete-and-earn/) | Medium |
 | [0835-image-overlap](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0835-image-overlap/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0400-nth-digit/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0400-nth-digit/) | Medium |
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
@@ -550,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -749,4 +753,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 | [1934-confirmation-rate](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/MySQL/Medium/1934-confirmation-rate/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 <!---LeetCode Topics End-->
