@@ -11,7 +11,7 @@ public:
     }
     
     int pickIndex() {
-        int r = rand()%nums[nums.size()-1];
+        int r = rand() % nums.back();
         return upper_bound(nums.begin(), nums.end(), r) - nums.begin();
     }
 };
