@@ -24,8 +24,6 @@ private:
 public:
     int maxEqualAdjacentPairs(vector<int>& nums) {
         int sol = solve(nums);
-        // reverse(nums.begin(), nums.end());
-        // sol = max(sol, solve(nums));
         return sol;
     }
 };
