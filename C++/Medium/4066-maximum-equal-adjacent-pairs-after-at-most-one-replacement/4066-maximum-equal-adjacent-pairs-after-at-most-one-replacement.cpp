@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxEqualAdjacentPairs(vector<int>& nums) {
-        map<long long int, int> mp;
+        unordered_map<long long int, int> mp;
         int n = nums.size();
         int sol = 0;
         int teq = 0;
