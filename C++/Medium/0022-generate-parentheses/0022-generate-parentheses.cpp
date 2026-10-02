@@ -1,24 +1,27 @@
 class Solution {
 private:
     vector<string> sol;
-    void backtrack(int o, int c, string &temp){
-        if(c < o || o < 0 || c < 0){
+public:
+    void backtrack(string &temp, int open, int close) {
+        if(open == 0 && close == 0){
+            sol.push_back(temp);
             return;
         }
-        if(o == 0 && c == 0){
-            sol.push_back(temp);
+        if(open > 0){
+            temp.push_back('(');
+            backtrack(temp, open - 1, close);
+            temp.pop_back();
         }
-        temp.push_back('(');
-        backtrack(o - 1, c, temp);
-        temp.pop_back();
-        temp.push_back(')');
-        backtrack(o, c - 1, temp);
-        temp.pop_back();
+        if(close > open){
+            temp.push_back(')');
+            backtrack(temp, open, close - 1);
+            temp.pop_back();
+        }
     }
-public:
+
     vector<string> generateParenthesis(int n) {
-        string temp = "";
-        backtrack(n, n, temp);
+        string str = "";
+        backtrack(str, n, n);
         return sol;
     }
 };
