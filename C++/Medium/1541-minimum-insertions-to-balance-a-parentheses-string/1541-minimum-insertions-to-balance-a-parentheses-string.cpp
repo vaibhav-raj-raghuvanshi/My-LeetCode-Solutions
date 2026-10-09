@@ -1,23 +1,23 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int need = 0;
-        int sol = 0;
-        for (char ch : s){
-            if (ch == '('){
-                if (need % 2 == 1){
-                    sol++;
-                    need--;
+        int closed = 0;
+        int open = 0;
+        for(char ch : s){
+            if(ch == '('){
+                if(closed % 2 == 1){
+                    open++;
+                    closed--;
                 }
-                need += 2;
+                closed += 2;
             }else{
-                need--;
-                if(need < 0){
-                    sol++;
-                    need = 1;
+                closed--;
+                if(closed < 0){
+                    open++;
+                    closed = 1;
                 }
             }
         }
-        return sol + need;
+        return open + closed;
     }
 };
