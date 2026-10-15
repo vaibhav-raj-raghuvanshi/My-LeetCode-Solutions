@@ -612,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
