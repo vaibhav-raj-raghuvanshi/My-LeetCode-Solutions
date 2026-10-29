@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3842-toggle-light-bulbs](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2509-cycle-length-queries-in-a-tree/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -394,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -632,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -689,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
