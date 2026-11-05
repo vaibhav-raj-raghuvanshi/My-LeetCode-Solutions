@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
+| [0372-super-pow](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0372-super-pow/) | Medium |
 | [0400-nth-digit](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0400-nth-digit/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -721,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0372-super-pow](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0372-super-pow/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -854,4 +856,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0292-nim-game/) | Easy |
+## Euler's Totient Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0372-super-pow/) | Medium |
+## Euler's Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
