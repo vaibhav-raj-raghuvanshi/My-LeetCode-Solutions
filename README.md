@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0273-integer-to-english-words](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0273-integer-to-english-words/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0890-find-and-replace-pattern/) | Medium |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0223-rectangle-area/) | Medium |
 | [0233-number-of-digit-one](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0273-integer-to-english-words](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0273-integer-to-english-words/) | Hard |
 | [0343-integer-break](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
@@ -720,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0273-integer-to-english-words](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0273-integer-to-english-words/) | Hard |
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
