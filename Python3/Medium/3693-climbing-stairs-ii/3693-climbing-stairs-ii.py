@@ -1,8 +1,6 @@
 class Solution:
     def climbStairs(self, n: int, costs: List[int]) -> int:
         dp = [float(inf)] * (n + 1)
-        if(n == 1) :
-            return costs[0] + 1
         dp[0] = 0
         for i in range (1, len(costs) + 1):
             if i >= 1:
