@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0740-delete-and-earn/) | Medium |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0740-delete-and-earn/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -647,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -889,4 +893,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0372-super-pow/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
