@@ -5,7 +5,7 @@ public:
     NumArray(vector<int>& arr) {
         nums = {0};
         for(int i = 0; i < arr.size(); i++){
-            nums.push_back(nums.back() + arr[i]);
+            nums.push_back(nums[i] + arr[i]);
             cout << nums.back() << " ";
         }
     }
