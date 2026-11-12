@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0740-delete-and-earn/) | Medium |
 | [0835-image-overlap](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0835-image-overlap/) | Medium |
+| [0848-shifting-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0848-shifting-letters/) | Medium |
 | [0853-car-fleet](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0853-car-fleet/) | Medium |
 | [0877-stone-game](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0890-find-and-replace-pattern/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0273-integer-to-english-words/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
+| [0848-shifting-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0890-find-and-replace-pattern/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
@@ -663,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-random-pick-with-weight](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0848-shifting-letters](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0848-shifting-letters/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/vaibhav-raj-raghuvanshi/My-LeetCode-Solutions/tree/main/C++/Medium/1094-car-pooling/) | Medium |
