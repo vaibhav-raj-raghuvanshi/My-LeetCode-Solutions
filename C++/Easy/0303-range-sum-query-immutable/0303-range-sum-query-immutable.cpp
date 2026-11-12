@@ -3,16 +3,14 @@ private:
     vector<int> nums;
 public:
     NumArray(vector<int>& arr) {
-        nums = arr;
-        for(int i = 1; i < nums.size(); i++){
-            nums[i] += nums[i-1];
+        nums = {0};
+        for(int i = 0; i < arr.size(); i++){
+            nums.push_back(nums.back() + arr[i]);
+            cout << nums.back() << " ";
         }
     }
     int sumRange(int left, int right) {
-        if(left == 0){
-            return nums[right];
-        }
-        return nums[right] - nums[left - 1];
+        return nums[right + 1] - nums[left];
     }
 };
 
