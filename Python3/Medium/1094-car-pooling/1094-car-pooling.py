@@ -5,12 +5,11 @@ class Solution:
             preSum[it[1]] += it[0]
             preSum[it[2]] -= it[0]
 
-        if(preSum[0] > capacity):
-            return False
-
+        curr = 0
+        
         for i in range (1001):
-            preSum[i] += preSum[i-1]
-            if(preSum[i] > capacity):
+            curr += preSum[i]
+            if(curr > capacity):
                 return False
         
         return True
